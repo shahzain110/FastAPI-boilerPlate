@@ -1,0 +1,1 @@
+OPENAI_TIMEOUTS = 5*60 #5min

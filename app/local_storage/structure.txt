@@ -1,0 +1,12 @@
+Folder Structure Diagram
+========================
+
+brand_name
+│
+└── user_id
+    │
+    └── "articles"
+        │
+        └── article_id
+        │
+        └── article_id
